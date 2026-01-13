@@ -1,5 +1,7 @@
 # 🎮 retrogamehub.online
 
+> English | [中文](https://github.com/retrogamehub/.github/blob/main/profile/README.zh-CN.md)
+
 **retrogamehub.online** is a self-hosted **online retro game management solution**, designed to help you organize, browse, and serve your retro game collection easily via the web.
 
 Perfect for home servers, NAS devices, and retro gaming enthusiasts.
